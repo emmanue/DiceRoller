@@ -6,8 +6,6 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 
-// Following best practices
-
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
